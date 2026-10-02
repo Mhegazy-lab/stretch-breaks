@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Stretch Breaks",
+  "description": "Six guided desk stretches with a 30-second beep timer, one screen at a time.",
+  "appearance": {
+    "theme_color": "#A3E635",
+    "icon": {
+      "src": "../icon-mono.png",
+      "type": "monochrome"
+    },
+    "icon_background": {
+      "colors": [
+        "#A3E635",
+        "#4A6B14",
+        "#2A3519",
+        "#0B0E07"
+      ],
+      "stops": [
+        0.0,
+        0.33,
+        0.66,
+        1.0
+      ],
+      "inner_glow_color": "#E4FFB0"
+    }
+  }
+}
